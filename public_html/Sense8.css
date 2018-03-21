@@ -1,0 +1,58 @@
+body {
+    background: #06675A;
+}
+
+
+#Série1 {
+    margin-left: 3rem;
+    display: flex;
+}
+
+#Série1 .info-img {
+    width: 15%;
+}
+#Série1 .info {
+    width: 85%;
+}
+
+
+#Série2 {
+    margin-left: 3rem;
+    display: flex;
+}
+
+#Série2 .info-img {
+    width: 15%;
+}
+
+#Série2 .info {
+    width: 85%;
+}
+
+
+#Série3 {
+    margin-left: 3rem;
+    display: flex
+}
+
+#Série3 .info-img {
+    width: 15%;
+}
+
+#Série3 .info {
+    width: 85%;
+}
+
+
+#Série4 {
+    margin-left: 3rem;
+    display: flex;
+}
+
+#Série4 .info-img {
+    width: 15%;
+}
+
+#Série4 .info {
+    width: 85%;
+}
